@@ -1,0 +1,21 @@
+.jumbotron2 {
+  /* background-color: rgb(30, 219, 30);
+  add image in background
+  */
+
+  background-image: url("header2.jpg");
+  height: 20vh;
+
+  text-align: center;
+  margin-bottom: 2px;
+  padding: 20px;
+}
+
+
+.jumbotron1 {
+ 
+
+  text-align: center;
+  margin-bottom: 2px;
+  padding: 20px;
+}
